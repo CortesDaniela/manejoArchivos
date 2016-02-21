@@ -1,0 +1,8 @@
+C:\Users\Dannie\Documents\manejoArchivos\manejoArchivos\obj\x86\Debug\manejoArchivos.Form1.resources
+C:\Users\Dannie\Documents\manejoArchivos\manejoArchivos\obj\x86\Debug\manejoArchivos.Properties.Resources.resources
+C:\Users\Dannie\Documents\manejoArchivos\manejoArchivos\obj\x86\Debug\manejoArchivos.csproj.GenerateResource.Cache
+C:\Users\Dannie\Documents\manejoArchivos\manejoArchivos\bin\Debug\manejoArchivos.exe
+C:\Users\Dannie\Documents\manejoArchivos\manejoArchivos\bin\Debug\manejoArchivos.pdb
+C:\Users\Dannie\Documents\manejoArchivos\manejoArchivos\obj\x86\Debug\manejoArchivos.exe
+C:\Users\Dannie\Documents\manejoArchivos\manejoArchivos\obj\x86\Debug\manejoArchivos.pdb
+C:\Users\Dannie\Documents\manejoArchivos\manejoArchivos\obj\x86\Debug\manejoArchivos.csprojResolveAssemblyReference.cache
